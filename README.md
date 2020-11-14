@@ -1,4 +1,4 @@
-SAV3 is deployed at 0x6E10AAcb89A28d6FA0FE68790777fec7E7f01890
+SAV3 is deployed at https://etherscan.io/address/0x6E10AAcb89A28d6FA0FE68790777fec7E7f01890#code
 
 SAV3 is an experimental uncensorable platform with no CEO, no servers, and no content policy, with one objective: save the world.
 
